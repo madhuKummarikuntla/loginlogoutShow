@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.home-con {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  width: 600px;
+  border-radius: 13px;
+}
